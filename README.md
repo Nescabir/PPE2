@@ -6,4 +6,4 @@ Projet personnalisé encadré 2 ou PPE2 est un projet que j'ai dû réaliser dur
 
 Nous devions réaliser un site web disposant d'une connexion sécurisée pour pouvoir accéder à une liste de jingles créer par les élèves du lycée.
 
-[Démo](http://pro.nescabir.fr/dev/PPE2)
+[Démo](http://private.nescabir.fr/dev/PPE2)
